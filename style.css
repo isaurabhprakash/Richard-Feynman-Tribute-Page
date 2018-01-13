@@ -1,0 +1,15 @@
+body{
+	margin:60px 60px 60px 60px;
+}
+h1{
+	font-family:'Sedgwick Ave Display', cursive;
+	background-color:#282828;
+	color:white;
+}
+.panel-heading h4{
+	font-family:'Permanent Marker', cursive;
+	color:white;
+}
+li{
+	font-size:18px;
+}
